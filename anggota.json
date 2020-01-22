@@ -1,0 +1,27 @@
+[
+    {
+        "nama": "Hendy",
+        "umur": "20",
+        "email": "hendyalgorithm@programmer.net"
+    },
+    {
+        "nama": "Umar Faqih",
+        "umur": "23",
+        "email": "umarbfud@gmail.com"
+    },
+    {
+        "nama": "Kevin Christe",
+        "umur": "20",
+        "email": "kevinchristeee@gmail.com"
+    },
+    {
+        "nama": "Raul Irawan",
+        "umur": "19",
+        "email": "raulirawan33@gmail.com"
+    },
+    {
+        "nama": "Raedi Hermawan",
+        "umur": "20",
+        "email": "raediher21@gmail.com"
+    }
+]
